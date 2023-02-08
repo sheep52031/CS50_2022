@@ -1,0 +1,7 @@
+Prompt user typing height(h)
+if h < 1 or h > 8 ,then keep ask uesr typing height
+Iterate from i less to h:
+    i On iteration j
+        if j < (h-(i+1)) , then print " "
+        else then print "#"
+        loop through once then a newline

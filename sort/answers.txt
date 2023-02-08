@@ -1,0 +1,25 @@
+sort1 uses: Bubble sort!
+
+How do you know?:
+
+When I use sorted50000.txt and sorted5000.txt to distinguish Ω.
+Always run time is sort1 < sort2 < sort3.
+According to Big Ω formula of  Bubble sort when were sorted
+that the runtime just need n instead Merge sort need nlog n,
+n < n logn, then I know.
+
+sort2 uses: Merge sort!
+
+How do you know?:
+
+When I use random50000.txt, because n is the large number and random that
+sort2 is fastest than sort1 and sort3.
+Obviously, Big O of sort is nlogn have the advantage to handle large data.
+
+
+sort3 uses: Selection sort!
+
+How do you know?:
+
+Through I know sort1 is Bubble sort,when number has been sorted
+however Selection sort need Big Ω (n^2) always slower than Bubble sort and Merge sort.
